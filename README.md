@@ -14,10 +14,10 @@ Hi! I'm **Emma**, an IT student passionate about learning and building across mu
 
 ##  Activities
 
-I document my learning journey here including what I’m exploring, what worked and what didn’t.
+I document my learning journey here, including what I’m exploring, what worked and what didn’t.
 
 **Activity 1:** Explored Offensive Security basics. Learned how to hack a website legally in a safe environment and got a feel for an ethical hacker's job.
-**Activity 2:** Completed a simulation using a virtual machine, via [TryHackMe](https://tryhackme.com/p/emma.bee.me), and used Gobuster Command to brute-force website pages.
+**Activity 2:** Completed a simulation using a virtual machine, via [TryHackMe](https://tryhackme.com/p/emma.bee.me), and used Gobuster (command-line security application) to brute-force website pages.
 
 ---
 
@@ -25,7 +25,8 @@ I document my learning journey here including what I’m exploring, what worked 
 
 A collection of tools, scripts, and cheat sheets I use or recommend:
 
--**[TryHackMe](https://tryhackme.com/p/emma.bee.me)**
+- [TryHackMe](https://tryhackme.com/p/emma.bee.me)
+- [Glossary](https://tryhackme.com/glossary) 
 
 ---
 
