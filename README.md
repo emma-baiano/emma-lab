@@ -18,7 +18,7 @@ I document my learning journey here, including what I’m exploring, what worked
 
 **Activity 1:** Explored Offensive Security basics. Learned how to hack a website legally in a safe environment and got a feel for an ethical hacker's job.
 
-**Activity 2:** Used a command-line application; **Gobuster** to brute-force a website to find hidden directories and pages on [TryHackMe](https://tryhackme.com/p/emma.bee.me).
+**Activity 2:** Used a command-line application; Gobuster, to brute-force a website to find hidden directories and pages on [TryHackMe](https://tryhackme.com/p/emma.bee.me).
 
 ---
 
