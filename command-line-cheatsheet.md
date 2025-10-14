@@ -21,17 +21,20 @@ Created by Emma Baiano.
 | `rm`      | Remove                  | Deletes files or folders                                       | `rm file.txt`            |
 | `tree`    | Tree                    | Displays directory structure visually                          | `tree`                   |
 
+---
 
---
+## Permissions:
 
-## Permissions
-
-- **chmod** = Change Mode : Change file permissions (read/write/execute).
-
-- **chown** = Change Owner : Changes the owner of a file and owner.
-
-- **ls -l** : List files with detailed information including permissions and ownership.
+| Command   | Full Word Meaning       | Description                                                                | Example                      |
+|-----------|-------------------------|----------------------------------------------------------------------------|------------------------------|
+| `chmod`   | Change Mode             | Changes file permissions (read/write/execute)                              | `chmod 755 script.sh`        |
+| `chown`   | Change Owner            | Changes the owner and group of a file                                      | `chown user: group file.txt` | 
+| `ls - l`  | List (long)             | Lists files with detailed information including permisssions and ownership | `ls -l`                      |
 
 ---
 
+## Viewing & Editing Files:
 
+| Command   | Full Word Meaning       | Description                                                                | Example                      |
+|-----------|-------------------------|----------------------------------------------------------------------------|------------------------------|
+|
